@@ -1,0 +1,82 @@
+
+{
+"cities":[
+    {"place":"delhi",
+    "spots":[
+        {"name":"Red fort",
+         "url":"https://en.wikipedia.org/wiki/Red_Fort"
+
+
+        },
+        {"name":"India Gate",
+        "url":"https://en.wikipedia.org/wiki/India_Gate"
+
+        }
+
+    ]
+},
+{
+    "place":"Mumbai",
+    "spots":[
+        
+    {"name":"Marine Drives",
+    "url":"https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai"
+    },
+    {"name" :"Elephnanta Caves",
+     "url" : "https://en.wikipedia.org/wiki/Elephanta_Caves"
+
+    }
+]
+},
+{
+    "place":"Pune",
+    "spots" :[
+    {"name":"Sinhagad Fort",
+     "url":"https://en.wikipedia.org/wiki/Sinhagad"
+    }
+    ]
+},
+{    "place":"jaipur",
+      "spots" :[
+          
+        {"name":"Amber Palace",
+        "url":"https://en.wikipedia.org/wiki/Amer_Fort"
+        },
+        {"name" :"Hawa Mahal",
+         "url" : "https://en.wikipedia.org/wiki/Hawa_Mahal"
+    
+        }
+        ]
+
+    },
+{
+    "place":"Bangalore",
+    "spots":[
+        {"name":"Bangalore Palace",
+            "url":"https://en.wikipedia.org/wiki/Bangalore_Palace"
+           }
+        ]
+
+},
+{
+     "place" :"hyderabad",
+    "spots" :[
+        {"name":"Hussain Sagar",
+            "url":"https://en.wikipedia.org/wiki/Hussain_Sagar"
+           }
+                ]
+
+ },
+{
+    "place" :"Indore",
+    "spots":[
+        {"name":"Rajwada Palace",
+            "url":"https://en.wikipedia.org/wiki/Rajwada"
+           }
+               ]
+                         
+}                                                      
+    
+
+            ]
+}
